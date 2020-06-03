@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="head_height">48dp</dimen>
+    <dimen name="head_height_padding">60dp</dimen>
+
+    <dimen name="tab_startup_height">48dp</dimen>
+    <dimen name="tab_startup_height_padding">60dp</dimen>
+
+    <dimen name="action_size">48dp</dimen>
+    <dimen name="action_padding">12dp</dimen>
+
+    <dimen name="text_size_title">18dp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+    <dimen name="text_size_title_sub">18dp</dimen>
+
+    <dimen name="divider_1px">0.5dp</dimen>
+
+</resources>

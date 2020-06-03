@@ -16,7 +16,6 @@ abstract class AbstractBaseFragment : Fragment(), BaseView {
 
     open var rootView: View? = null
 
-    fun init(){}
     abstract fun initView()
     abstract fun getLayoutId(): Int
 
